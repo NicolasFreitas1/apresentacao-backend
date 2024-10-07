@@ -1,6 +1,8 @@
 
 # API REST para Aplicativo de Música
 
+Equipe: Lucas Perito Lopes, Marcos Vinicius Goudinho da Silva, Nicolas Andrade de Freitas 
+
 ## Casos de Uso:
 1. Acessar e gerenciar as playlists de um usuário.
 2. Acessar e gerenciar os detalhes dos usuários.
